@@ -1,9 +1,9 @@
 ### Hi there 👋<h1 align="center">Hola 👋, Me llamo Ivana Strasorier</h1>
-<h3 align="center">Me apasiona frontend</h3>
+<h3 align="center">Soy estudiante de Desarrollo de Software</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ivana-strasorier-82a383b5/](https://www.linkedin.com/in/ivana-strasorier-82a383b5/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.js**
+- 💬 Ask me about **HTML, CSS,Python, Java, Node.js, entre otros**
 
 - 📫 How to reach me **ivanastrasorier@gmail.com**
 
